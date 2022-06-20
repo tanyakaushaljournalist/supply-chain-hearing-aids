@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# How the Global Supply Chain Disruption Affected Hearing Aid Trade
+## Tanya Kaushal and Nic Walter
+## In collaboration with the Associated Press
+Ruth Warick is a regular library visitor in Vancouver, Canada but the Covid-19 pandemic posed other challenges during her visit. She has hearing loss and was denied assistance multiple times by the librarian. With the librarian’s mask on, Warick couldn’t understand her. 
 
-You can use the [editor on GitHub](https://github.com/tanyakaushaljournalist/tanyakaushal.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+“I asked her to write it down and she didn’t do it until the fourth try. It was not a good experience,” said Warick. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Two weeks later, Warick visited the library again and asked one of the librarians a question, who acknowledged that Warick has hearing loss and used the library’s microphone and headphones to communicate with Warick. 
 
-### Markdown
+Warick has had hearing loss since childhood. She uses an advanced earbud hearing aid for her day-to-day activities but she still requires close captioning on video calls.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Like Warick’s experience, living with hearing loss became more difficult during the pandemic, even with a hearing aid.
 
-```markdown
-Syntax highlighted code block
+Jordan Murray in Phoenix, Arizona has been hearing impaired since birth. With a single mother and no insurance, access to an advanced hearing aid wasn’t easy. In 2021, Murray began working at a local convenience store. The customers would verbally attack him when he couldn’t understand them even after explaining that he has hearing loss. He eventually quit his job.
 
-# Header 1
-## Header 2
-### Header 3
+Due to the high costs of hearing aids and no insurance, Murray’s mother began crowdfunding to buy him a hearing aid. With the added attention from the Beltone Foundation, Murray finally got a hearing aid in October 2021.
 
-- Bulleted
-- List
+Warick and Murray are part of the growing population of individuals with hearing loss in North America, and many of them don’t have a hearing aid, nearly 25 million in the US. Without assistive technology, those with hearing loss are more susceptible to social and cognitive decline which can cause depression, anxiety, and even dementia.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tanyakaushaljournalist/tanyakaushal.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
