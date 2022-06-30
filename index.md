@@ -1,6 +1,7 @@
 # How the Global Supply Chain Disruption Affected Hearing Aid Trade
 ## Tanya Kaushal and Nic Walter
 ## In collaboration with the Associated Press
+
 Ruth Warick is a regular library visitor in Vancouver, Canada but the Covid-19 pandemic posed other challenges during her visit. She has hearing loss and was denied assistance multiple times by the librarian. With the librarian’s mask on, Warick couldn’t understand her. 
 
 “I asked her to write it down and she didn’t do it until the fourth try. It was not a good experience,” said Warick. 
@@ -17,12 +18,19 @@ Due to the high costs of hearing aids and no insurance, Murray’s mother began 
 
 Warick and Murray are part of the growing population of individuals with hearing loss in North America, and many of them don’t have a hearing aid, nearly 25 million in the US. Without assistive technology, those with hearing loss are more susceptible to social and cognitive decline which can cause depression, anxiety, and even dementia.
 
+![6zQnh-percentage-of-people-reporting-some-form-of-hearing-loss](https://user-images.githubusercontent.com/103539517/176727401-f952e452-3947-48a8-a9d1-accd9189da6d.png)
+
 But not everyone could get a hearing aid during the pandemic. 
 
 With the global supply chain disruption triggered by the pandemic, there was a shortage of specific hearing aids and accessories in the US. As ports still remain congested with long delays in the delivery of goods, compared to other retail products, hearing aids were one of the worst affected products in 2020. 
+![visualization (8)](https://user-images.githubusercontent.com/103539517/176727611-93c35810-09c3-44d9-a911-cf5b744e480f.png)
+
 Fewer than 20% of hearing aids were sold in the United States than during any other year in the last decade. At the worst of times, imports of hearing aids into the U.S. dropped to a third of the volume recorded pre-pandemic.
 
 Europe houses the world’s top five hearing aid companies but the pandemic slowed down imports to the US. Suppliers and health providers were unable to get their products to the people who needed them. 
+
+![visualization (9)](https://user-images.githubusercontent.com/103539517/176727719-3d61ad04-97f0-433c-a903-4068190270fc.png)
+
 "When the issue was with a hearing aid, it was usually because of a very specific part to a certain make and model of hearing aid. The accessory supply issues seem to be more widespread and there are still some accessories that patients are waiting for,” said Dr. Melissa Beer, an audiologist and hearing aid provider in San Francisco.
 
 Patients might need a custom hearing aid that requires a unique ear mold of the patient sent by the audiologist to the manufacturer. With slow orders, the delays were up to a month, whereas some accessories were not available at all, said Dr. Abram Bailey, a former audiologist and founder of Hearing Tracker, which hosts forums for the audiology community. 
@@ -38,6 +46,10 @@ Regional restrictions of Covid in countries were the added bottleneck to the sup
 “The disruptions have been more on the shipment side. China shut down for two or three weeks and have a shipping facility in Shanghai. The movement of goods, to the main supply and the manufacturing of the goods, and what I see has been a disruption in the distribution of it, then the supply of our parts of manufacturing,” said Michael Halloran, President of Beltone, a hearing aid company under the Danish hearing aid giant, GN Group.
 
 Ruth Warick, who also works as the President of the International Federation of Hard of Hearing People, expressed her concerns that low-income communities have been severely affected by the hearing aid shortages and high prices. 
+ 
+Data from Hearing Tracker indicates that 26% of people with hearing loss have a household income between $55-90k a year pre-tax, and more than the users buy higher-end hearing aids that have an average cost of $2,000-$3,000.
+![pre-tax-household-income-of-hearing-aid-users- (1)](https://user-images.githubusercontent.com/103539517/176727802-fa0bef9d-97cb-4f13-a490-ff592881696b.png)
+
 "Those in low-income communities experienced a greater impact because they have fewer resources to overcome the impacts of this situation. Even transit is a problem. If you want to visit your doctor, but you don't want to go on the bus, because of safety reasons, and can't afford a taxi, you can’t get your hearing aid fixed,” said Warick.
 
 However, the industry continued to churn out new models during the pandemic, due to growing demand but experienced revenue losses due to the supply issues.
@@ -55,4 +67,3 @@ But upcoming FDA regulations may provide better access for low-income hearing ai
 Later this year, current regulations are expected to be lifted. It would fundamentally restructure the anatomy of the international hearing aid supply network.
 
 "Worldwide, one person out of five uses amplification. That means four out of five don't use it. If there was a capability as an intermediate step, then I think people will start getting benefits from amplification earlier in their journey. So, [the FDA regulation change] will expand the market, not contract the market,” said Halloran.
-
