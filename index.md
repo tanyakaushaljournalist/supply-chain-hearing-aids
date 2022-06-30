@@ -80,3 +80,6 @@ But upcoming FDA regulations may provide better access for low-income hearing ai
 Later this year, current regulations are expected to be lifted. It would fundamentally restructure the anatomy of the international hearing aid supply network.
 
 > "Worldwide, one person out of five uses amplification. That means four out of five don't use it. If there was a capability as an intermediate step, then I think people will start getting benefits from amplification earlier in their journey. So, [the FDA regulation change] will expand the market, not contract the market,” said Halloran.
+
+
+*Cluster analysis of US Tradde Census with other data visualizations conducted in Python*
