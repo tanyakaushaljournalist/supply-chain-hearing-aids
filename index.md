@@ -1,6 +1,7 @@
 # How the Global Supply Chain Disruption Affected Hearing Aid Trade
 ## Tanya Kaushal and Nic Walter
 ## In collaboration with the Associated Press
+May 2022
 
 Ruth Warick is a regular library visitor in Vancouver, Canada but the Covid-19 pandemic posed other challenges during her visit. She has hearing loss and was denied assistance multiple times by the librarian. With the librarian’s mask on, Warick couldn’t understand her. 
 
@@ -8,18 +9,17 @@ Ruth Warick is a regular library visitor in Vancouver, Canada but the Covid-19 p
 
 Two weeks later, Warick visited the library again and asked one of the librarians a question, who acknowledged that Warick has hearing loss and used the library’s microphone and headphones to communicate with Warick. 
 
-Warick has had hearing loss since childhood. She uses an advanced earbud hearing aid for her day-to-day activities but she still requires close captioning on video calls.
+Warick has had hearing loss since childhood. She uses an advanced earbud hearing aid for her day-to-day activities but she still requires closed captioning on video calls.
 
-Like Warick’s experience, living with hearing loss became more difficult during the pandemic, even with a hearing aid.
+Like Warick, life with hearing loss became more difficult during the pandemic, even with a hearing aid.
 
-Jordan Murray in Phoenix, Arizona has been hearing impaired since birth. With a single mother and no insurance, access to an advanced hearing aid wasn’t easy. In 2021, Murray began working at a local convenience store. The customers would verbally attack him when he couldn’t understand them even after explaining that he has hearing loss. He eventually quit his job.
+Jordan Murray in Phoenix, Arizona has been hearing impaired since birth. With a single mother and no health insurance, access to an advanced hearing aid wasn’t easy. In 2021, Murray began working at a local convenience store. The customers would verbally attack him when he couldn’t understand them even after explaining that he has hearing loss. He eventually quit his job but he couldn't afford a hearing aid.
 
-Due to the high costs of hearing aids and no insurance, Murray’s mother began crowdfunding to buy him a hearing aid. With the added attention from the Beltone Foundation, Murray finally got a hearing aid in October 2021.
+Murray’s mother began crowdfunding to buy him a hearing aid. With the added attention from the Beltone Foundation, Murray finally got a hearing aid in October 2021.
 
 Warick and Murray are part of the growing population of individuals with hearing loss in North America, and many of them don’t have a hearing aid, nearly 25 million in the US. Without assistive technology, those with hearing loss are more susceptible to social and cognitive decline which can cause depression, anxiety, and even dementia.
 
 <img src="https://user-images.githubusercontent.com/103539517/176731778-470e6b19-dbe0-450b-903c-898782bebb92.png" width="450" height="450"/>
-
 
 But not everyone could get a hearing aid during the pandemic. 
 
@@ -37,24 +37,31 @@ Europe houses the world’s top five hearing aid companies but the pandemic slow
 
 Patients might need a custom hearing aid that requires a unique ear mold of the patient sent by the audiologist to the manufacturer. With slow orders, the delays were up to a month, whereas some accessories were not available at all, said Dr. Abram Bailey, a former audiologist and founder of Hearing Tracker, which hosts forums for the audiology community. 
 
-> “A lot of the times they say it's due to chip shortages, and the other thing that came up is there's a lot of quality control issues, especially with the custom devices where the audiologist will put in a very specific order about what they want, and a lot of times the devices are not coming back exactly as ordered,” said Bailey.
+> “A lot of times they said it's due to chip shortages, and the other thing that came up is there's a lot of quality control issues, especially with the custom devices where the audiologist will put in a very specific order about what they want, and a lot of times the devices are not coming back exactly as ordered,” said Bailey.
 
 
 <img src="https://user-images.githubusercontent.com/103539517/176736094-1d8c4e56-41c7-48fc-a74b-72fe67d059c6.png" width="700" height="600"/>
 
-Conducting repairs on hearing aids was strenuous too. 
+Conducting repairs on hearing aids was equally demanding. 
 
 > “Waiting for repairs was frustrating for a lot of patients and in turn frustrating for me as a clinician if I didn’t have an appropriate device to loan out to them,” said Beer.
 
-Regional restrictions of Covid in countries were the added bottleneck to the supply chain disruption and as the richest hearing aid companies like Sonova have manufacturing hubs in China and Vietnam, delays began earlier in 2020. Vietnam exports the most number of hearing aids and accessories to the US, according to the US Trade Census.  
+Regional lockdowns and restrictions of Covid-19 in countries with the primary manufacturing hubs became the bottleneck to the supply chain disruption. One of the richest hearing aid companies like Sonova have manufacturing hubs in China and Vietnam where factory shut downs and shipping delays began earlier in 2020. Vietnam exports the most number of hearing aids and accessories to the US, according to the US Trade Census.  
 
 > “The disruptions have been more on the shipment side. China shut down for two or three weeks and have a shipping facility in Shanghai. The movement of goods, to the main supply and the manufacturing of the goods, and what I see has been a disruption in the distribution of it, then the supply of our parts of manufacturing,” said Michael Halloran, President of Beltone, a hearing aid company under the Danish hearing aid giant, GN Group.
 
-Ruth Warick, who also works as the President of the International Federation of Hard of Hearing People, expressed her concerns that low-income communities have been severely affected by the hearing aid shortages and high prices. 
+At the end of the supply chain, many low-income consumers had to pay the price of continued hearing loss, high costs and shortages of hearing aids, which meant limited access to a hearing aid for a prolonged period of time.
  
-Data from Hearing Tracker indicates that 26% of people with hearing loss have a household income between $55-90k a year pre-tax, and more than the users buy higher-end hearing aids that have an average cost of $2,000-$3,000.
+Data from Hearing Tracker indicates that 26% of people with hearing loss have a household income between $55-90k a year pre-tax, and more than 50% of the users buy higher-end hearing aids that have an average cost of $2,000-$3,000.
 
 <img src="https://user-images.githubusercontent.com/103539517/176727802-fa0bef9d-97cb-4f13-a490-ff592881696b.png" width="550" height="500"/>
+
+Type of Hearing Aid Bought by Consumers
+![newplot (3)](https://user-images.githubusercontent.com/103539517/176740721-56b9e163-7e97-4a81-a7da-a293a70a959c.png)
+
+Average Prices of New Models of Hearing Aids by Year
+<img src="https://user-images.githubusercontent.com/103539517/176740055-438e0293-675a-43fa-bd30-6859c81187fe.png">
+
 
 > "Those in low-income communities experienced a greater impact because they have fewer resources to overcome the impacts of this situation. Even transit is a problem. If you want to visit your doctor, but you don't want to go on the bus, because of safety reasons, and can't afford a taxi, you can’t get your hearing aid fixed,” said Warick.
 
