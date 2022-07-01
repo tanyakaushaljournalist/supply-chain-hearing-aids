@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2022-06-30 Thu 19:40 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="lfenn" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<script type="text/javascript">
+// @license magnet:?xt=urn:btih:e95b018ef3580986a04669f1b5879592219e2a7a&dn=public-domain.txt Public Domain
+<!--/*--><![CDATA[/*><!--*/
+     function CodeHighlightOn(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.add("code-highlighted");
+         target.classList.add("code-highlighted");
+       }
+     }
+     function CodeHighlightOff(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.remove("code-highlighted");
+         target.classList.remove("code-highlighted");
+       }
+     }
+    /*]]>*///-->
+// @license-end
+</script>
+</head>
+<body>
+<div id="content">
+<p>
+## Tanya Kaushal and Nic Walter
+## In collaboration with the Associated Press
+May 2022
+</p>
+
+<p>
+Ruth Warick is a regular library visitor in Vancouver, Canada but the Covid-19 pandemic posed other challenges during her visit. She has hearing loss and was denied assistance multiple times by the librarian. With the librarian’s mask on, Warick couldn’t understand her. 
+</p>
+
+<p>
+&gt; “I asked her to write it down and she didn’t do it until the fourth try. It was not a good experience,” said Warick. 
+</p>
+
+<p>
+Two weeks later, Warick visited the library again and asked one of the librarians a question, who acknowledged that Warick has hearing loss and used the library’s microphone and headphones to communicate with Warick. 
+</p>
+
+<p>
+Warick has had hearing loss since childhood. She uses an advanced earbud hearing aid for her day-to-day activities but she still requires closed captioning on video calls.
+</p>
+
+<p>
+Like Warick, life with hearing loss became more difficult during the pandemic, even with a hearing aid.
+</p>
+
+<p>
+Jordan Murray in Phoenix, Arizona has been hearing impaired since birth. With a single mother and no health insurance, access to an advanced hearing aid wasn’t easy. In 2021, Murray began working at a local convenience store. The customers would verbally attack him when he couldn’t understand them even after explaining that he has hearing loss. He eventually quit his job but he couldn't afford a hearing aid.
+</p>
+
+<p>
+Murray’s mother began crowdfunding to buy him a hearing aid. With the added attention from the Beltone Foundation, Murray finally got a hearing aid in October 2021.
+</p>
+
+<p>
+Warick and Murray are part of the growing population of individuals with hearing loss in North America, and many of them don’t have a hearing aid, nearly 25 million in the US. Without assistive technology, those with hearing loss are more susceptible to social and cognitive decline which can cause depression, anxiety, and even dementia.
+</p>
+
+<p>
+&lt;img src="<img src="https://user-images.githubusercontent.com/103539517/176731778-470e6b19-dbe0-450b-903c-898782bebb92.png" alt="176731778-470e6b19-dbe0-450b-903c-898782bebb92.png" />" width="450" height="450"/&gt;
+</p>
+
+<p>
+But not everyone could get a hearing aid during the pandemic. 
+</p>
+
+<p>
+With the global supply chain disruption triggered by the pandemic, there was a shortage of specific hearing aids and accessories in the US. As ports still remain congested with long delays in the delivery of goods, compared to other retail products, hearing aids were one of the worst affected products in 2020. 
+</p>
+
+<p>
+![visualization (8)](<img src="https://user-images.githubusercontent.com/103539517/176727611-93c35810-09c3-44d9-a911-cf5b744e480f.png" alt="176727611-93c35810-09c3-44d9-a911-cf5b744e480f.png" />)
+</p>
+
+<p>
+Fewer than 20% of hearing aids were sold in the United States than during any other year in the last decade. At the worst of times, imports of hearing aids into the U.S. dropped to a third of the volume recorded pre-pandemic.
+</p>
+
+<p>
+Europe houses the world’s top five hearing aid companies but the pandemic slowed down imports to the US. Suppliers and health providers were unable to get their products to the people who needed them. 
+</p>
+
+<p>
+![visualization (9)](<img src="https://user-images.githubusercontent.com/103539517/176727719-3d61ad04-97f0-433c-a903-4068190270fc.png" alt="176727719-3d61ad04-97f0-433c-a903-4068190270fc.png" />)
+</p>
+
+<p>
+&gt; "When the issue was with a hearing aid, it was usually because of a very specific part to a certain make and model of hearing aid. The accessory supply issues seem to be more widespread and there are still some accessories that patients are waiting for,” said Dr. Melissa Beer, an audiologist and hearing aid provider in San Francisco.
+</p>
+
+<p>
+Patients might need a custom hearing aid that requires a unique ear mold of the patient sent by the audiologist to the manufacturer. With slow orders, the delays were up to a month, whereas some accessories were not available at all, said Dr. Abram Bailey, a former audiologist and founder of Hearing Tracker, which hosts forums for the audiology community. 
+</p>
+
+<p>
+&gt; “A lot of times they said it's due to chip shortages, and the other thing that came up is there's a lot of quality control issues, especially with the custom devices where the audiologist will put in a very specific order about what they want, and a lot of times the devices are not coming back exactly as ordered,” said Bailey.
+</p>
+
+
+<p>
+&lt;img src="<img src="https://user-images.githubusercontent.com/103539517/176736094-1d8c4e56-41c7-48fc-a74b-72fe67d059c6.png" alt="176736094-1d8c4e56-41c7-48fc-a74b-72fe67d059c6.png" />" width="700" height="600"/&gt;
+</p>
+
+<p>
+Conducting repairs on hearing aids was equally demanding. 
+</p>
+
+<p>
+&gt; “Waiting for repairs was frustrating for a lot of patients and in turn frustrating for me as a clinician if I didn’t have an appropriate device to loan out to them,” said Beer.
+</p>
+
+<p>
+Regional lockdowns and restrictions of Covid-19 in countries with the primary manufacturing hubs became the bottleneck to the supply chain disruption. One of the richest hearing aid companies like Sonova have manufacturing hubs in China and Vietnam where factory shut downs and shipping delays began earlier in 2020. Vietnam exports the most number of hearing aids and accessories to the US, according to the US Trade Census.  
+</p>
+
+<p>
+&gt; “The disruptions have been more on the shipment side. China shut down for two or three weeks and have a shipping facility in Shanghai. The movement of goods, to the main supply and the manufacturing of the goods, and what I see has been a disruption in the distribution of it, then the supply of our parts of manufacturing,” said Michael Halloran, President of Beltone, a hearing aid company under the Danish hearing aid giant, GN Group.
+</p>
+
+<p>
+At the end of the supply chain, many low-income consumers had to pay the price of continued hearing loss, high costs and shortages of hearing aids, which meant limited access to a hearing aid for a prolonged period of time.
+</p>
+
+<p>
+Data from Hearing Tracker indicates that 26% of people with hearing loss have a household income between $55-90k a year pre-tax, and more than 50% of the users buy higher-end hearing aids that have an average cost of $2,000-$3,000.
+</p>
+
+<p>
+&lt;img src="<img src="https://user-images.githubusercontent.com/103539517/176727802-fa0bef9d-97cb-4f13-a490-ff592881696b.png" alt="176727802-fa0bef9d-97cb-4f13-a490-ff592881696b.png" />" width="550" height="500"/&gt;
+</p>
+
+<p>
+Type of Hearing Aid Bought by Consumers
+![newplot (3)](<img src="https://user-images.githubusercontent.com/103539517/176740721-56b9e163-7e97-4a81-a7da-a293a70a959c.png" alt="176740721-56b9e163-7e97-4a81-a7da-a293a70a959c.png" />)
+</p>
+
+<p>
+Average Prices of New Models of Hearing Aids by Year
+&lt;img src="<img src="https://user-images.githubusercontent.com/103539517/176740055-438e0293-675a-43fa-bd30-6859c81187fe.png" alt="176740055-438e0293-675a-43fa-bd30-6859c81187fe.png" />"&gt;
+</p>
+
+
+<p>
+&gt; "Those in low-income communities experienced a greater impact because they have fewer resources to overcome the impacts of this situation. Even transit is a problem. If you want to visit your doctor, but you don't want to go on the bus, because of safety reasons, and can't afford a taxi, you can’t get your hearing aid fixed,” said Warick.
+</p>
+
+<p>
+However, the industry continued to churn out new models during the pandemic, due to growing demand but experienced revenue losses due to the supply issues.
+</p>
+
+<p>
+The recovery made by the hearing aid industry post-2020 set a record high of an 18% increase in sales but experts believe that may not last long as supply chain disruptions will continue for a while.
+</p>
+
+<p>
+Excessive fiscal stimulus could be creating a “buying binge” which is making supply chain issues worse for many products being imported from abroad.
+</p>
+
+<p>
+&gt; "America has been on a buying binge. This buying binge has overwhelmed the capacity of ports and logistics networks. Then, because you have so many bottlenecks, other people run short on parts. It all just propagates. There's a big interconnected, tangled mess right now, and anytime you spend that long, making a mess like that, it's gonna take a while to sort out,” explained Dr. Willy Shih, a professor at the Harvard Business School.
+</p>
+
+<p>
+He anticipates that the current Covid-19 wave in China could cause disruption in June due to major international ports closing for a short period.
+</p>
+
+<p>
+But upcoming FDA regulations may provide better access for low-income hearing aid users. Current FDA policies require that hearing aids be sold by a medical professional, via a prescription. 
+</p>
+
+<p>
+Later this year, current regulations are expected to be lifted. It would fundamentally restructure the anatomy of the international hearing aid supply network.
+</p>
+
+<p>
+&gt; "Worldwide, one person out of five uses amplification. That means four out of five don't use it. If there was a capability as an intermediate step, then I think people will start getting benefits from amplification earlier in their journey. So, [the FDA regulation change] will expand the market, not contract the market,” said Halloran.
+</p>
+
+
+<p>
+<b>Cluster analysis of US Trade Census with other data visualizations conducted in Python</b>
+</p>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: lfenn</p>
+<p class="date">Created: 2022-06-30 Thu 19:40</p>
+<p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>
